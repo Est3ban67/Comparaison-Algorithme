@@ -21,6 +21,13 @@ Les fichiers sont stockés dans les dossiers pour chaque algorithme :
 R5 pour RANDOM 5
 POEMS
 EDA-PSO
+
+###🛠 Environnement d'exécution
+✅ Requis
+Python ≥ 3.7
+
+pip (gestionnaire de paquets Python)
+
 ### 📦 Dépendances
 Le projet utilise les bibliothèques Python suivantes :
 
@@ -28,7 +35,7 @@ Le projet utilise les bibliothèques Python suivantes :
 numpy
 matplotlib
 
-🛠 Environnement d'exécution
+###🛠 Environnement d'exécution
 ✅ Requis
 Python ≥ 3.7
 
