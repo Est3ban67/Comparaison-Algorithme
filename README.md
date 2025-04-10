@@ -14,7 +14,7 @@ Ce projet permet d’évaluer et de comparer plusieurs algorithmes d’optimisat
   - `plot_comparison()` : Génère un graphe comparatif à partir de plusieurs fichiers `.tdat`.
 
 ### 📁 Données
-Les fichiers `.tdat` contiennent des résultats d'exécution de différents algorithmes sur diverses fonctions (f3, f7, f14, etc.) avec une dimension fixée (DIM3).  
+Les fichiers `.tdat` contiennent des résultats d'exécution de différents algorithmes sur diverses fonctions (f3, f7, f14, f18, f20) avec plusieurs dimension  (DIM3, DIM10, DIM20).  
 Chaque fichier contient plusieurs "runs" séparés par `%`.
 
 Les fichiers sont stockés dans les dossiers pour chaque algorithme :
