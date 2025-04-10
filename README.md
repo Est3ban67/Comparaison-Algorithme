@@ -27,3 +27,9 @@ Le projet utilise les bibliothèques Python suivantes :
 ```txt
 numpy
 matplotlib
+
+🛠 Environnement d'exécution
+✅ Requis
+Python ≥ 3.7
+
+pip (gestionnaire de paquets Python)
