@@ -22,7 +22,7 @@ R5 pour RANDOM 5
 POEMS
 EDA-PSO
 
-###🛠 Environnement d'exécution
+🛠 Environnement d'exécution
 ✅ Requis
 Python ≥ 3.7
 
