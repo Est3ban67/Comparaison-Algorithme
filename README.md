@@ -21,6 +21,8 @@ Les fichiers sont stockés dans les dossiers pour chaque algorithme :
 R5 pour RANDOM 5
 POEMS
 EDA-PSO
+
+
 ### 📁 Résultats
 Les figures générées automatiquement (par exemple en PNG ou PDF) seront sauvegardées ici.  
 Chaque figure représente un groupe de fonctions comparé par 3 algorithmes.
